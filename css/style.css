@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css?family=Kumar+One');
+body{
+	font-family: 'Kumar One', cursive!important;
+}
+.first_page {
+	height: 100vh;
+	background: url("/img/flor_white.jpg") 50% 0 no-repeat fixed;
+}
+.is-color-black{
+		color: black;
+}
+.is-top-30{
+	margin-top: 40vh;
+}
+.is-no-margin-padding{
+	margin: 0!important;
+	padding: 0!important;
+}
+.is-margin-top-40{
+	margin-top: 40px!important;
+}
+.is-margin-top-10{
+	margin-top: 10px!important;
+}
+.header_key_1{
+	height: 100px;
+	width: 100%;
+}
+.second-page{
+	height: 100vh;
+		background: url("/img/flor_dark.jpg") 50% 0 no-repeat fixed;
+}
+.is-color-white{
+	color: white;
+}
+.third_page{
+	height: 100vh;
+	background: url("/img/flor_white.jpg") 50% 0 no-repeat fixed;
+}
+.key_tablo{
+	width: 100%;
+	height: 100vh;
+}
+
+
