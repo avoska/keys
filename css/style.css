@@ -4,7 +4,7 @@ body{
 }
 .first_page {
 	height: 100vh;
-	background: url("/img/flor_white.jpg") 50% 0 no-repeat fixed;
+	background: url("../img/flor_white.jpg") 50% 0 no-repeat fixed;
 }
 .is-color-black{
 		color: black;
@@ -28,14 +28,14 @@ body{
 }
 .second-page{
 	height: 100vh;
-		background: url("/img/flor_dark.jpg") 50% 0 no-repeat fixed;
+		background: url("../img/flor_dark.jpg") 50% 0 no-repeat fixed;
 }
 .is-color-white{
 	color: white;
 }
 .third_page{
 	height: 100vh;
-	background: url("/img/flor_white.jpg") 50% 0 no-repeat fixed;
+	background: url("../img/flor_white.jpg") 50% 0 no-repeat fixed;
 }
 .key_tablo{
 	width: 100%;
